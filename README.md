@@ -123,6 +123,8 @@ so multiple seeds are unnecessary. It has no invented ranked recommendations.
 | `checkpoints.csv` | Cutoff used for each student |
 | `run_manifest.json` | Version, settings, input/script hashes and validation results |
 
+TL;DR: the most important outputs for the comparison are summary.csv, paired_comparison.csv and per_student.csv
+
 The expected random baseline appears in student scores and comparisons but not
 `per_recommendation.csv`, because it represents an expectation rather than a list.
 The short group has 8-12 responses and the long group 13-20 in this dataset,
