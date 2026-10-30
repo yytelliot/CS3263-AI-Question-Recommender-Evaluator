@@ -1,7 +1,7 @@
 # CS3263 evaluator v2
 
 This version implements the agreed static top-10 experiment with **three** main
-metrics. It replaces the earlier bottom-two weak-skill definition. It runs with
+metrics. It replaces the earlier bottom-two/40% threshold weak-skill definition. It runs with
 Python 3.10 or newer and needs no additional packages. The original evaluator
 is kept separately.
 
