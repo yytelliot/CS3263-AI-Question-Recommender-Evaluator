@@ -32,7 +32,7 @@ This creates two random fixtures, `demo_a` and `demo_b`, strictly for testing th
 pipeline. They are not real models. A completed demo is included in
 `example_results/`. Never use its numbers as BKT/LLM performance.
 
-## Teammates' contract
+## Recommendation File contract
 
 Each recommendation file needs:
 
