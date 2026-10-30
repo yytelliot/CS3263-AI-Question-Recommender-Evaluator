@@ -1,0 +1,379 @@
+student_id,student_step,order_id,assignment_id,assistment_id,question_id,skill_id,skill_name,correct,attempt_count,ms_first_response,hint_count,hint_total,first_action,bottom_hint,opportunity,opportunity_original,sequence_id,student_class_id,teacher_id,school_id,tutor_mode,answer_type,type
+70744,1,28535424,270547,38041,61089,47,Conversion of Fraction Decimals Percents,1,1,6689,0,5,0,,14,14.0,6018,11816,22763,73,tutor,algebra,MasterySection
+70744,2,29635671,270558,50795,89709,277,Addition and Subtraction Integers,1,1,4050,0,4,0,,4,4.0,7012,11816,22763,73,tutor,algebra,MasterySection
+70744,3,29635711,270561,51000,89914,277,Addition and Subtraction Integers,0,2,5358,0,4,0,,5,5.0,7014,11816,22763,73,tutor,algebra,MasterySection
+70744,4,29635770,270561,51051,89965,277,Addition and Subtraction Integers,1,1,5971,0,2,0,,9,9.0,7014,11816,22763,73,tutor,algebra,MasterySection
+70744,5,29635778,270561,50973,89887,277,Addition and Subtraction Integers,1,1,8189,0,3,0,,10,10.0,7014,11816,22763,73,tutor,algebra,MasterySection
+70744,6,32508804,277498,34376,53801,280,Addition and Subtraction Fractions,1,1,10476,0,3,0,,10,10.0,5960,13241,22763,73,tutor,algebra,MasterySection
+70744,7,32508821,277498,34348,53773,280,Addition and Subtraction Fractions,1,1,6019,0,3,0,,11,11.0,5960,13241,22763,73,tutor,algebra,MasterySection
+70744,8,35273455,277559,43945,79243,27,Pythagorean Theorem,1,1,36317,0,3,0,,9,9.0,6409,13241,22763,73,tutor,choose_1,MasterySection
+70744,9,35273583,277561,44124,79566,27,Pythagorean Theorem,1,1,86812,0,0,0,,11,11.0,6464,13241,22763,73,tutor,algebra,MasterySection
+70746,1,21466411,263327,51043,89957,277,Addition and Subtraction Integers,1,1,3922,0,2,0,,2,2.0,7014,12476,22763,73,tutor,algebra,MasterySection
+70746,2,28271506,270540,47718,86319,280,Addition and Subtraction Fractions,1,1,16547,0,4,0,,3,3.0,6910,11816,22763,73,tutor,algebra,MasterySection
+70746,3,31273367,272481,57405,107858,311,Equation Solving Two or Fewer Steps,1,1,112844,0,0,0,,9,9.0,5970,11816,22763,73,tutor,algebra,MasterySection
+70746,4,31273589,272481,57390,107753,311,Equation Solving Two or Fewer Steps,0,1,78968,0,0,0,,11,11.0,5970,11816,22763,73,tutor,algebra,MasterySection
+70746,5,31273906,272481,57401,107830,311,Equation Solving Two or Fewer Steps,1,1,31969,0,0,0,,19,13.0,5970,11816,22763,73,tutor,algebra,MasterySection
+70746,6,31273959,272481,57377,107674,311,Equation Solving Two or Fewer Steps,1,1,14109,0,0,0,,20,14.0,5970,11816,22763,73,tutor,algebra,MasterySection
+70746,7,32257858,277495,50795,89709,277,Addition and Subtraction Integers,1,1,2437,0,4,0,,9,9.0,7012,13241,22763,73,tutor,algebra,MasterySection
+70746,8,32257996,277497,47941,86544,280,Addition and Subtraction Fractions,1,1,22798,0,4,0,,7,7.0,6910,13241,22763,73,tutor,algebra,MasterySection
+70746,9,32625684,277559,43908,79206,27,Pythagorean Theorem,0,2,2844,0,3,0,,27,27.0,6409,13241,22763,73,tutor,choose_1,MasterySection
+70746,10,32625694,277559,43940,79238,27,Pythagorean Theorem,0,2,2703,0,3,0,,28,28.0,6409,13241,22763,73,tutor,choose_1,MasterySection
+70746,11,32625712,277559,43937,79235,27,Pythagorean Theorem,1,1,2156,0,3,0,,30,30.0,6409,13241,22763,73,tutor,choose_1,MasterySection
+70746,12,32625748,277559,43934,79232,27,Pythagorean Theorem,0,3,8672,0,3,0,,32,32.0,6409,13241,22763,73,tutor,choose_1,MasterySection
+70746,13,35458344,277559,43939,79237,27,Pythagorean Theorem,0,3,18031,0,3,0,,56,56.0,6409,13241,22763,73,tutor,choose_1,MasterySection
+70816,1,24607255,263316,37221,58807,280,Addition and Subtraction Fractions,1,1,9094,0,3,0,,3,3.0,5960,12476,22763,73,tutor,algebra,MasterySection
+70816,2,24607299,263316,37238,58824,280,Addition and Subtraction Fractions,1,1,5922,0,3,0,,4,4.0,5960,12476,22763,73,tutor,algebra,MasterySection
+70816,3,27222485,263317,37221,58807,280,Addition and Subtraction Fractions,1,1,9969,0,3,0,,7,7.0,5960,12476,22763,73,tutor,algebra,MasterySection
+70816,4,27222494,263317,34376,53801,280,Addition and Subtraction Fractions,1,1,6453,0,3,0,,8,8.0,5960,12476,22763,73,tutor,algebra,MasterySection
+70816,5,33444154,277498,37216,58802,280,Addition and Subtraction Fractions,1,1,34387,0,3,0,,14,14.0,5960,13241,22763,73,tutor,algebra,MasterySection
+70816,6,34140134,277563,44332,80070,27,Pythagorean Theorem,0,1,23761,0,0,0,,17,17.0,6467,13241,22763,73,tutor,algebra,MasterySection
+70816,7,35034098,277559,43937,79235,27,Pythagorean Theorem,0,2,98476,0,3,0,,28,28.0,6409,13241,22763,73,tutor,choose_1,MasterySection
+70816,8,35034160,277559,43945,79243,27,Pythagorean Theorem,1,1,34361,0,3,0,,29,29.0,6409,13241,22763,73,tutor,choose_1,MasterySection
+70816,9,35034430,277561,44124,79566,27,Pythagorean Theorem,1,1,143697,0,0,0,,32,32.0,6464,13241,22763,73,tutor,algebra,MasterySection
+71740,1,29980354,270558,50751,89665,277,Addition and Subtraction Integers,1,1,3727,0,4,0,,10,10.0,7012,11816,22763,73,tutor,algebra,MasterySection
+71740,2,30054400,270561,51012,89926,277,Addition and Subtraction Integers,0,2,4125,0,4,0,,22,22.0,7014,11816,22763,73,tutor,algebra,MasterySection
+71740,3,30054420,270561,51011,89925,277,Addition and Subtraction Integers,1,1,2589,0,4,0,,23,23.0,7014,11816,22763,73,tutor,algebra,MasterySection
+71740,4,32000390,272481,57390,107753,311,Equation Solving Two or Fewer Steps,1,1,154754,0,0,0,,9,9.0,5970,11816,22763,73,tutor,algebra,MasterySection
+71740,5,32000612,272481,57388,107745,311,Equation Solving Two or Fewer Steps,1,1,29444,0,0,0,,14,11.0,5970,11816,22763,73,tutor,algebra,MasterySection
+71740,6,32000659,272481,57376,107667,311,Equation Solving Two or Fewer Steps,0,1,21542,0,0,0,,15,12.0,5970,11816,22763,73,tutor,algebra,MasterySection
+71740,7,32000713,272481,57380,107689,311,Equation Solving Two or Fewer Steps,1,1,14716,0,0,0,,19,13.0,5970,11816,22763,73,tutor,algebra,MasterySection
+71740,8,32000776,272481,57377,107674,311,Equation Solving Two or Fewer Steps,1,1,17165,0,0,0,,22,16.0,5970,11816,22763,73,tutor,algebra,MasterySection
+71740,9,32000789,272481,57401,107830,311,Equation Solving Two or Fewer Steps,0,1,149805,0,0,0,,23,17.0,5970,11816,22763,73,tutor,algebra,MasterySection
+71740,10,32076045,272481,57386,107731,311,Equation Solving Two or Fewer Steps,1,1,10708,0,0,0,,37,25.0,5970,11816,22763,73,tutor,algebra,MasterySection
+71740,11,32076195,272481,57405,107858,311,Equation Solving Two or Fewer Steps,1,1,16717,0,0,0,,44,29.0,5970,11816,22763,73,tutor,algebra,MasterySection
+71740,12,33990992,277503,47383,85901,47,Conversion of Fraction Decimals Percents,0,2,10527,0,3,0,,24,24.0,6891,13241,22763,73,tutor,algebra,MasterySection
+71740,13,33991199,277504,38043,61091,47,Conversion of Fraction Decimals Percents,1,1,3879,0,5,0,,28,28.0,6018,13241,22763,73,tutor,algebra,MasterySection
+71740,14,35512760,277559,43934,79232,27,Pythagorean Theorem,0,2,9719,0,3,0,,25,25.0,6409,13241,22763,73,tutor,choose_1,MasterySection
+71740,15,35512804,277559,43908,79206,27,Pythagorean Theorem,0,2,25664,0,3,0,,27,27.0,6409,13241,22763,73,tutor,choose_1,MasterySection
+75361,1,21409691,263316,34353,53778,280,Addition and Subtraction Fractions,0,3,25084,0,3,0,,9,9.0,5960,12476,22763,73,tutor,algebra,MasterySection
+75361,2,28673994,270541,37216,58802,280,Addition and Subtraction Fractions,1,1,12626,0,3,0,,11,11.0,5960,11816,22763,73,tutor,algebra,MasterySection
+75361,3,28867469,270561,50973,89887,277,Addition and Subtraction Integers,0,2,3250,0,3,0,,28,28.0,7014,11816,22763,73,tutor,algebra,MasterySection
+75361,4,29007500,263316,34372,53797,280,Addition and Subtraction Fractions,0,2,12281,0,3,0,,22,22.0,5960,12476,22763,73,tutor,algebra,MasterySection
+75361,5,29399282,270546,47383,85901,47,Conversion of Fraction Decimals Percents,0,2,15750,3,3,0,1.0,12,12.0,6891,11816,22763,73,tutor,algebra,MasterySection
+75361,6,29399414,270547,38062,61110,47,Conversion of Fraction Decimals Percents,1,1,18641,0,5,0,,18,18.0,6018,11816,22763,73,tutor,algebra,MasterySection
+75361,7,29399438,270547,38058,61106,47,Conversion of Fraction Decimals Percents,0,3,7718,0,5,0,,20,20.0,6018,11816,22763,73,tutor,algebra,MasterySection
+75361,8,33548168,277517,51022,89936,277,Addition and Subtraction Integers,0,2,6453,0,4,0,,51,51.0,7014,13241,22763,73,tutor,algebra,MasterySection
+78915,1,21482069,262734,38062,61110,47,Conversion of Fraction Decimals Percents,1,1,19172,0,5,0,,7,7.0,6018,12352,42999,2770,tutor,algebra,MasterySection
+78915,2,21482103,262734,38053,61101,47,Conversion of Fraction Decimals Percents,1,1,13433,0,5,0,,9,9.0,6018,12352,42999,2770,tutor,algebra,MasterySection
+78915,3,26824975,267968,57405,107858,311,Equation Solving Two or Fewer Steps,1,1,15766,0,0,0,,35,23.0,8564,12352,42999,2770,tutor,algebra,MasterySection
+78915,4,26825093,267968,57376,107667,311,Equation Solving Two or Fewer Steps,0,0,85552,0,0,2,,40,25.0,8564,12352,42999,2770,tutor,algebra,MasterySection
+78915,5,26926193,265343,57401,107830,311,Equation Solving Two or Fewer Steps,0,1,291046,0,0,0,,51,28.0,5970,12352,42999,2770,tutor,algebra,MasterySection
+78915,6,26926259,265343,57390,107753,311,Equation Solving Two or Fewer Steps,0,0,22156,0,0,2,,63,31.0,5970,12352,42999,2770,tutor,algebra,MasterySection
+78915,7,26926402,267968,57407,107872,311,Equation Solving Two or Fewer Steps,1,1,74435,0,0,0,,84,36.0,8564,12352,42999,2770,tutor,algebra,MasterySection
+78915,8,26926673,267968,57390,107753,311,Equation Solving Two or Fewer Steps,1,1,32114,0,0,0,,85,37.0,8564,12352,42999,2770,tutor,algebra,MasterySection
+78915,9,26926687,267968,57386,107731,311,Equation Solving Two or Fewer Steps,1,1,6690,0,0,0,,86,38.0,8564,12352,42999,2770,tutor,algebra,MasterySection
+78915,10,26926693,267968,57377,107674,311,Equation Solving Two or Fewer Steps,1,1,34980,0,0,0,,87,39.0,8564,12352,42999,2770,tutor,algebra,MasterySection
+78915,11,26937475,265343,57376,107667,311,Equation Solving Two or Fewer Steps,0,1,73116,0,0,0,,101,50.0,5970,12352,42999,2770,tutor,algebra,MasterySection
+78915,12,26937492,265343,57399,107816,311,Equation Solving Two or Fewer Steps,1,1,234202,0,0,0,,105,51.0,5970,12352,42999,2770,tutor,algebra,MasterySection
+78915,13,26937515,265343,57386,107731,311,Equation Solving Two or Fewer Steps,1,1,44507,0,0,0,,108,54.0,5970,12352,42999,2770,tutor,algebra,MasterySection
+78915,14,26937521,265343,57407,107872,311,Equation Solving Two or Fewer Steps,1,1,53215,0,0,0,,109,55.0,5970,12352,42999,2770,tutor,algebra,MasterySection
+78915,15,29515167,267999,43913,79211,27,Pythagorean Theorem,0,3,191219,0,3,0,,3,3.0,6409,12352,42999,2770,tutor,choose_1,MasterySection
+78915,16,29515847,267999,43939,79237,27,Pythagorean Theorem,1,1,3531,0,3,0,,6,6.0,6409,12352,42999,2770,tutor,choose_1,MasterySection
+78915,17,29515863,267999,43937,79235,27,Pythagorean Theorem,1,1,3016,0,3,0,,7,7.0,6409,12352,42999,2770,tutor,choose_1,MasterySection
+78915,18,29516807,268001,44124,79566,27,Pythagorean Theorem,1,1,50031,0,0,0,,11,11.0,6464,12352,42999,2770,tutor,algebra,MasterySection
+78972,1,21684852,262757,34376,53801,280,Addition and Subtraction Fractions,1,1,36655,0,3,0,,1,1.0,5960,12351,42999,2770,tutor,algebra,MasterySection
+78972,2,21961510,262759,38041,61089,47,Conversion of Fraction Decimals Percents,1,1,20164,0,5,0,,2,2.0,6018,12351,42999,2770,tutor,algebra,MasterySection
+78972,3,24622388,265366,57388,107745,311,Equation Solving Two or Fewer Steps,0,1,67083,0,0,0,,41,35.0,5970,12351,42999,2770,tutor,algebra,MasterySection
+78972,4,24707793,265366,57386,107731,311,Equation Solving Two or Fewer Steps,0,1,17434,0,0,0,,52,40.0,5970,12351,42999,2770,tutor,algebra,MasterySection
+78972,5,24707824,265366,57390,107753,311,Equation Solving Two or Fewer Steps,1,1,24582,0,0,0,,56,41.0,5970,12351,42999,2770,tutor,algebra,MasterySection
+78972,6,24715699,265366,57401,107830,311,Equation Solving Two or Fewer Steps,0,0,6684,0,0,2,,72,48.0,5970,12351,42999,2770,tutor,algebra,MasterySection
+78972,7,26789587,265366,57377,107674,311,Equation Solving Two or Fewer Steps,1,1,57493,0,0,0,,96,60.0,5970,12351,42999,2770,tutor,algebra,MasterySection
+78972,8,27203318,265366,57405,107858,311,Equation Solving Two or Fewer Steps,1,1,36446,0,0,0,,108,66.0,5970,12351,42999,2770,tutor,algebra,MasterySection
+78972,9,27203394,265366,57407,107872,311,Equation Solving Two or Fewer Steps,1,1,21913,0,0,0,,109,67.0,5970,12351,42999,2770,tutor,algebra,MasterySection
+78972,10,27203450,265366,57399,107816,311,Equation Solving Two or Fewer Steps,1,1,29357,0,0,0,,110,68.0,5970,12351,42999,2770,tutor,algebra,MasterySection
+78972,11,29746382,271884,34372,53797,280,Addition and Subtraction Fractions,1,1,5746,0,3,0,,6,6.0,9864,12887,42999,2770,tutor,algebra,MasterySection
+78972,12,29746447,271884,37228,58814,280,Addition and Subtraction Fractions,1,1,10694,0,3,0,,8,8.0,9864,12887,42999,2770,tutor,algebra,MasterySection
+78972,13,32845016,271250,43908,79206,27,Pythagorean Theorem,0,9,88616,0,3,0,,5,5.0,6409,12351,42999,2770,tutor,choose_1,MasterySection
+78972,14,32845060,271250,43939,79237,27,Pythagorean Theorem,1,1,6717,0,3,0,,8,8.0,6409,12351,42999,2770,tutor,choose_1,MasterySection
+78972,15,32845067,271250,43937,79235,27,Pythagorean Theorem,0,2,21285,0,3,0,,9,9.0,6409,12351,42999,2770,tutor,choose_1,MasterySection
+78972,16,32845082,271250,43953,79251,27,Pythagorean Theorem,0,2,6963,0,3,0,,11,11.0,6409,12351,42999,2770,tutor,choose_1,MasterySection
+78972,17,32845127,271252,44124,79566,27,Pythagorean Theorem,0,1,198850,0,0,0,,12,12.0,6464,12351,42999,2770,tutor,algebra,MasterySection
+78972,18,32983695,271250,43913,79211,27,Pythagorean Theorem,0,3,104480,0,3,0,,18,18.0,6409,12351,42999,2770,tutor,choose_1,MasterySection
+78972,19,32983947,271250,43945,79243,27,Pythagorean Theorem,1,1,45713,0,3,0,,19,19.0,6409,12351,42999,2770,tutor,choose_1,MasterySection
+78972,20,32984022,271250,43940,79238,27,Pythagorean Theorem,1,1,35614,0,3,0,,20,20.0,6409,12351,42999,2770,tutor,choose_1,MasterySection
+78981,1,24903945,265366,57405,107858,311,Equation Solving Two or Fewer Steps,1,1,39500,0,0,0,,32,29.0,5970,12351,42999,2770,tutor,algebra,MasterySection
+78981,2,26961431,265366,57376,107667,311,Equation Solving Two or Fewer Steps,0,0,127495,0,0,2,,47,38.0,5970,12351,42999,2770,tutor,algebra,MasterySection
+78981,3,27244534,265366,57377,107674,311,Equation Solving Two or Fewer Steps,1,1,151282,0,0,0,,53,41.0,5970,12351,42999,2770,tutor,algebra,MasterySection
+78981,4,27244545,265366,57390,107753,311,Equation Solving Two or Fewer Steps,0,1,47437,0,0,0,,54,42.0,5970,12351,42999,2770,tutor,algebra,MasterySection
+78981,5,27244599,265366,57388,107745,311,Equation Solving Two or Fewer Steps,1,1,73920,0,0,0,,63,45.0,5970,12351,42999,2770,tutor,algebra,MasterySection
+78981,6,27244613,265366,57386,107731,311,Equation Solving Two or Fewer Steps,1,1,61032,0,0,0,,64,46.0,5970,12351,42999,2770,tutor,algebra,MasterySection
+78981,7,27247229,265366,57380,107689,311,Equation Solving Two or Fewer Steps,1,1,106111,0,0,0,,65,47.0,5970,12351,42999,2770,tutor,algebra,MasterySection
+78981,8,27247271,265366,57399,107816,311,Equation Solving Two or Fewer Steps,1,1,52289,0,0,0,,70,49.0,5970,12351,42999,2770,tutor,algebra,MasterySection
+78981,9,27475360,265366,57407,107872,311,Equation Solving Two or Fewer Steps,1,1,118288,0,0,0,,79,55.0,5970,12351,42999,2770,tutor,algebra,MasterySection
+78981,10,27475467,265366,57401,107830,311,Equation Solving Two or Fewer Steps,1,1,8949,0,0,0,,80,56.0,5970,12351,42999,2770,tutor,algebra,MasterySection
+78981,11,30102121,271884,37221,58807,280,Addition and Subtraction Fractions,1,1,9146,0,3,0,,8,8.0,9864,12887,42999,2770,tutor,algebra,MasterySection
+78981,12,30102170,271884,34353,53778,280,Addition and Subtraction Fractions,1,1,11514,0,3,0,,10,10.0,9864,12887,42999,2770,tutor,algebra,MasterySection
+78981,13,32077123,271254,44332,80070,27,Pythagorean Theorem,1,1,7512,0,0,0,,15,15.0,6467,12351,42999,2770,tutor,algebra,MasterySection
+78982,1,20943990,262784,51022,89936,277,Addition and Subtraction Integers,1,1,22460,0,4,0,,4,4.0,7014,12351,42999,2770,tutor,algebra,MasterySection
+78982,2,20944120,262784,50973,89887,277,Addition and Subtraction Integers,0,6,8786,0,3,0,,7,7.0,7014,12351,42999,2770,tutor,algebra,MasterySection
+78982,3,20997617,262784,51012,89926,277,Addition and Subtraction Integers,0,3,13909,0,4,0,,11,11.0,7014,12351,42999,2770,tutor,algebra,MasterySection
+78982,4,21161820,262784,51011,89925,277,Addition and Subtraction Integers,0,3,14890,0,4,0,,17,17.0,7014,12351,42999,2770,tutor,algebra,MasterySection
+78982,5,23577478,265366,57386,107731,311,Equation Solving Two or Fewer Steps,0,1,249866,0,0,0,,12,12.0,5970,12351,42999,2770,tutor,algebra,MasterySection
+78982,6,24268762,265366,57376,107667,311,Equation Solving Two or Fewer Steps,0,1,193269,0,0,0,,24,21.0,5970,12351,42999,2770,tutor,algebra,MasterySection
+78982,7,24269400,265366,57407,107872,311,Equation Solving Two or Fewer Steps,1,1,144862,0,0,0,,30,24.0,5970,12351,42999,2770,tutor,algebra,MasterySection
+78982,8,31737791,271250,43945,79243,27,Pythagorean Theorem,0,3,4961,0,3,0,,4,4.0,6409,12351,42999,2770,tutor,choose_1,MasterySection
+78982,9,31787947,271250,43937,79235,27,Pythagorean Theorem,0,2,12063,0,3,0,,10,10.0,6409,12351,42999,2770,tutor,choose_1,MasterySection
+78982,10,31788154,271250,43953,79251,27,Pythagorean Theorem,0,3,65094,0,3,0,,11,11.0,6409,12351,42999,2770,tutor,choose_1,MasterySection
+78982,11,31792468,271250,43940,79238,27,Pythagorean Theorem,0,2,61093,0,3,0,,16,16.0,6409,12351,42999,2770,tutor,choose_1,MasterySection
+78982,12,31792498,271250,43939,79237,27,Pythagorean Theorem,1,1,11782,0,3,0,,18,18.0,6409,12351,42999,2770,tutor,choose_1,MasterySection
+78982,13,31825508,271250,43934,79232,27,Pythagorean Theorem,1,1,12745,0,3,0,,24,24.0,6409,12351,42999,2770,tutor,choose_1,MasterySection
+79024,1,21980225,262759,38053,61101,47,Conversion of Fraction Decimals Percents,0,3,29619,0,5,0,,10,10.0,6018,12351,42999,2770,tutor,algebra,MasterySection
+79024,2,23041980,262759,38058,61106,47,Conversion of Fraction Decimals Percents,1,1,85712,0,5,0,,14,14.0,6018,12351,42999,2770,tutor,algebra,MasterySection
+79024,3,23042234,262759,38051,61099,47,Conversion of Fraction Decimals Percents,1,1,48859,0,5,0,,16,16.0,6018,12351,42999,2770,tutor,algebra,MasterySection
+79024,4,29987754,271884,34353,53778,280,Addition and Subtraction Fractions,1,1,32027,0,3,0,,11,11.0,9864,12887,42999,2770,tutor,algebra,MasterySection
+79024,5,30250204,271884,37228,58814,280,Addition and Subtraction Fractions,1,1,9142,0,3,0,,18,18.0,9864,12887,42999,2770,tutor,algebra,MasterySection
+79024,6,30250219,271884,37221,58807,280,Addition and Subtraction Fractions,1,1,9282,0,3,0,,19,19.0,9864,12887,42999,2770,tutor,algebra,MasterySection
+79024,7,30250228,271884,34348,53773,280,Addition and Subtraction Fractions,1,1,7910,0,3,0,,20,20.0,9864,12887,42999,2770,tutor,algebra,MasterySection
+79024,8,30691098,265366,57399,107816,311,Equation Solving Two or Fewer Steps,1,1,13578,0,0,0,,41,26.0,5970,12351,42999,2770,tutor,algebra,MasterySection
+79024,9,33747006,265366,57376,107667,311,Equation Solving Two or Fewer Steps,1,1,5201,0,0,0,,43,28.0,5970,12351,42999,2770,tutor,algebra,MasterySection
+79059,1,23328808,265343,57401,107830,311,Equation Solving Two or Fewer Steps,1,1,34007,0,0,0,,21,12.0,5970,12352,42999,2770,tutor,algebra,MasterySection
+79059,2,23328859,265343,57407,107872,311,Equation Solving Two or Fewer Steps,1,1,21418,0,0,0,,22,13.0,5970,12352,42999,2770,tutor,algebra,MasterySection
+79059,3,26713633,267968,57377,107674,311,Equation Solving Two or Fewer Steps,1,1,20904,0,0,0,,37,28.0,8564,12352,42999,2770,tutor,algebra,MasterySection
+79059,4,26713882,267968,57399,107816,311,Equation Solving Two or Fewer Steps,0,1,39721,0,0,0,,38,29.0,8564,12352,42999,2770,tutor,algebra,MasterySection
+79059,5,26714461,267968,57386,107731,311,Equation Solving Two or Fewer Steps,1,1,7778,0,0,0,,42,30.0,8564,12352,42999,2770,tutor,algebra,MasterySection
+79059,6,26714805,267968,57380,107689,311,Equation Solving Two or Fewer Steps,0,1,6741,0,0,0,,44,32.0,8564,12352,42999,2770,tutor,algebra,MasterySection
+79059,7,26715325,267968,57376,107667,311,Equation Solving Two or Fewer Steps,1,1,14482,0,0,0,,50,35.0,8564,12352,42999,2770,tutor,algebra,MasterySection
+79059,8,29210945,267999,43940,79238,27,Pythagorean Theorem,1,1,3853,0,3,0,,4,4.0,6409,12352,42999,2770,tutor,choose_1,MasterySection
+79059,9,29210999,267999,43939,79237,27,Pythagorean Theorem,0,2,10306,0,3,0,,5,5.0,6409,12352,42999,2770,tutor,choose_1,MasterySection
+79059,10,29211147,267999,43945,79243,27,Pythagorean Theorem,0,3,41755,0,3,0,,8,8.0,6409,12352,42999,2770,tutor,choose_1,MasterySection
+79059,11,29531212,267999,43937,79235,27,Pythagorean Theorem,0,2,38356,0,3,0,,11,11.0,6409,12352,42999,2770,tutor,choose_1,MasterySection
+79059,12,29531372,268003,44332,80070,27,Pythagorean Theorem,1,1,9578,0,0,0,,19,19.0,6467,12352,42999,2770,tutor,algebra,MasterySection
+79059,13,29595494,267999,43953,79251,27,Pythagorean Theorem,0,3,25045,0,3,0,,26,26.0,6409,12352,42999,2770,tutor,choose_1,MasterySection
+79059,14,29595593,267999,43908,79206,27,Pythagorean Theorem,0,2,78297,0,3,0,,29,29.0,6409,12352,42999,2770,tutor,choose_1,MasterySection
+79059,15,29681708,267999,43934,79232,27,Pythagorean Theorem,1,1,9113,0,3,0,,34,34.0,6409,12352,42999,2770,tutor,choose_1,MasterySection
+79059,16,29681744,267999,43913,79211,27,Pythagorean Theorem,1,1,26811,0,3,0,,35,35.0,6409,12352,42999,2770,tutor,choose_1,MasterySection
+79059,17,29972161,271847,37228,58814,280,Addition and Subtraction Fractions,0,2,3661,0,3,0,,8,8.0,9864,12886,42999,2770,tutor,algebra,MasterySection
+79059,18,29972449,271847,37221,58807,280,Addition and Subtraction Fractions,1,1,4406,0,3,0,,11,11.0,9864,12886,42999,2770,tutor,algebra,MasterySection
+79059,19,29972529,271847,34376,53801,280,Addition and Subtraction Fractions,1,1,8494,0,3,0,,14,14.0,9864,12886,42999,2770,tutor,algebra,MasterySection
+79059,20,29972550,271847,37238,58824,280,Addition and Subtraction Fractions,1,1,4643,0,3,0,,15,15.0,9864,12886,42999,2770,tutor,algebra,MasterySection
+79066,1,21049358,262753,51022,89936,277,Addition and Subtraction Integers,1,1,6610,0,4,0,,2,2.0,7014,12352,42999,2770,tutor,algebra,MasterySection
+79066,2,21472999,262734,38053,61101,47,Conversion of Fraction Decimals Percents,1,1,16774,0,5,0,,9,9.0,6018,12352,42999,2770,tutor,algebra,MasterySection
+79066,3,23330200,265343,57390,107753,311,Equation Solving Two or Fewer Steps,0,1,16690,0,0,0,,24,15.0,5970,12352,42999,2770,tutor,algebra,MasterySection
+79066,4,23330321,265343,57388,107745,311,Equation Solving Two or Fewer Steps,0,1,34370,0,0,0,,28,16.0,5970,12352,42999,2770,tutor,algebra,MasterySection
+79066,5,23330698,265343,57401,107830,311,Equation Solving Two or Fewer Steps,1,1,19100,0,0,0,,37,19.0,5970,12352,42999,2770,tutor,algebra,MasterySection
+79066,6,23330747,265343,57399,107816,311,Equation Solving Two or Fewer Steps,1,1,14071,0,0,0,,38,20.0,5970,12352,42999,2770,tutor,algebra,MasterySection
+79066,7,23356847,265343,57377,107674,311,Equation Solving Two or Fewer Steps,0,1,41619,0,0,0,,40,22.0,5970,12352,42999,2770,tutor,algebra,MasterySection
+79066,8,23356899,265343,57405,107858,311,Equation Solving Two or Fewer Steps,0,1,39783,0,0,0,,44,23.0,5970,12352,42999,2770,tutor,algebra,MasterySection
+79066,9,23356931,265343,57407,107872,311,Equation Solving Two or Fewer Steps,1,1,26088,0,0,0,,48,24.0,5970,12352,42999,2770,tutor,algebra,MasterySection
+79066,10,23356974,265343,57376,107667,311,Equation Solving Two or Fewer Steps,1,1,23874,0,0,0,,51,27.0,5970,12352,42999,2770,tutor,algebra,MasterySection
+79066,11,26829272,267968,57407,107872,311,Equation Solving Two or Fewer Steps,1,1,27785,0,0,0,,67,43.0,8564,12352,42999,2770,tutor,algebra,MasterySection
+79066,12,29233526,267999,43908,79206,27,Pythagorean Theorem,1,1,48837,0,3,0,,3,3.0,6409,12352,42999,2770,tutor,choose_1,MasterySection
+79066,13,29484060,268001,44124,79566,27,Pythagorean Theorem,1,1,12576,0,0,0,,10,10.0,6464,12352,42999,2770,tutor,algebra,MasterySection
+79069,1,21482154,262734,38045,61093,47,Conversion of Fraction Decimals Percents,1,1,10296,0,5,0,,3,3.0,6018,12352,42999,2770,tutor,algebra,MasterySection
+79069,2,23356249,265343,57399,107816,311,Equation Solving Two or Fewer Steps,0,0,81401,0,0,2,,9,9.0,5970,12352,42999,2770,tutor,algebra,MasterySection
+79069,3,23356284,265343,57380,107689,311,Equation Solving Two or Fewer Steps,1,1,27528,0,0,0,,13,10.0,5970,12352,42999,2770,tutor,algebra,MasterySection
+79069,4,23356290,265343,57376,107667,311,Equation Solving Two or Fewer Steps,0,1,23995,0,0,0,,14,11.0,5970,12352,42999,2770,tutor,algebra,MasterySection
+79069,5,23356368,265343,57401,107830,311,Equation Solving Two or Fewer Steps,0,1,46217,0,0,0,,27,15.0,5970,12352,42999,2770,tutor,algebra,MasterySection
+79069,6,23531452,265343,57377,107674,311,Equation Solving Two or Fewer Steps,0,1,115847,0,0,0,,39,20.0,5970,12352,42999,2770,tutor,algebra,MasterySection
+79069,7,23531615,265343,57388,107745,311,Equation Solving Two or Fewer Steps,1,1,81348,0,0,0,,45,23.0,5970,12352,42999,2770,tutor,algebra,MasterySection
+79069,8,23531654,265343,57390,107753,311,Equation Solving Two or Fewer Steps,1,1,30242,0,0,0,,46,24.0,5970,12352,42999,2770,tutor,algebra,MasterySection
+79069,9,23531673,265343,57405,107858,311,Equation Solving Two or Fewer Steps,1,1,71879,0,0,0,,47,25.0,5970,12352,42999,2770,tutor,algebra,MasterySection
+79069,10,26805014,267968,57401,107830,311,Equation Solving Two or Fewer Steps,1,1,54516,0,0,0,,57,35.0,8564,12352,42999,2770,tutor,algebra,MasterySection
+79069,11,26805367,267968,57386,107731,311,Equation Solving Two or Fewer Steps,1,1,14861,0,0,0,,60,38.0,8564,12352,42999,2770,tutor,algebra,MasterySection
+79069,12,29617750,267999,43908,79206,27,Pythagorean Theorem,0,2,60878,0,3,0,,3,3.0,6409,12352,42999,2770,tutor,choose_1,MasterySection
+79069,13,29680793,267999,43945,79243,27,Pythagorean Theorem,1,1,91192,0,3,0,,7,7.0,6409,12352,42999,2770,tutor,choose_1,MasterySection
+79069,14,29680845,267999,43953,79251,27,Pythagorean Theorem,1,1,74134,0,3,0,,8,8.0,6409,12352,42999,2770,tutor,choose_1,MasterySection
+79069,15,29743309,268003,44332,80070,27,Pythagorean Theorem,1,1,16369,0,0,0,,40,40.0,6467,12352,42999,2770,tutor,algebra,MasterySection
+79690,1,20919893,262831,51022,89936,277,Addition and Subtraction Integers,1,1,22736,0,4,0,,10,10.0,7476,12237,48181,139,tutor,algebra,MasterySection
+79690,2,21606965,262831,51000,89914,277,Addition and Subtraction Integers,0,3,4036,0,4,0,,19,19.0,7476,12237,48181,139,tutor,algebra,MasterySection
+79690,3,21608260,262831,51002,89916,277,Addition and Subtraction Integers,1,1,35372,0,4,0,,34,34.0,7476,12237,48181,139,tutor,algebra,MasterySection
+79690,4,23364637,265931,50973,89887,277,Addition and Subtraction Integers,0,2,10309,0,3,0,,45,45.0,7476,12237,48181,139,tutor,algebra,MasterySection
+79690,5,23366638,265931,51022,89936,277,Addition and Subtraction Integers,0,3,5101,0,4,0,,64,64.0,7476,12237,48181,139,tutor,algebra,MasterySection
+79690,6,23367348,265924,34376,53801,280,Addition and Subtraction Fractions,1,1,7744,0,3,0,,1,1.0,7652,12237,48181,139,tutor,algebra,MasterySection
+79690,7,23367979,265924,37216,58802,280,Addition and Subtraction Fractions,0,2,13541,0,3,0,,5,5.0,7652,12237,48181,139,tutor,algebra,MasterySection
+79690,8,25349367,267392,50795,89709,277,Addition and Subtraction Integers,1,1,12727,0,4,0,,72,72.0,7475,12237,48181,139,tutor,algebra,MasterySection
+79690,9,25350718,267392,50751,89665,277,Addition and Subtraction Integers,1,1,4097,0,4,0,,78,78.0,7475,12237,48181,139,tutor,algebra,MasterySection
+79690,10,25353210,267391,51002,89916,277,Addition and Subtraction Integers,0,3,37289,0,4,0,,93,93.0,7476,12237,48181,139,tutor,algebra,MasterySection
+79690,11,25353907,267391,50973,89887,277,Addition and Subtraction Integers,0,4,12145,0,3,0,,95,95.0,7476,12237,48181,139,tutor,algebra,MasterySection
+79690,12,33441655,279218,50973,89887,277,Addition and Subtraction Integers,1,1,18612,0,3,0,,126,126.0,7476,12237,48181,139,tutor,algebra,MasterySection
+79695,1,21604236,262830,50795,89709,277,Addition and Subtraction Integers,1,2,6919,0,4,0,,6,6.0,7475,12237,48181,139,tutor,algebra,MasterySection
+79695,2,21604247,262830,50751,89665,277,Addition and Subtraction Integers,0,3,7618,2,4,0,0.0,7,7.0,7475,12237,48181,139,tutor,algebra,MasterySection
+79695,3,23365511,265931,51002,89916,277,Addition and Subtraction Integers,0,4,98430,4,4,0,1.0,47,47.0,7476,12237,48181,139,tutor,algebra,MasterySection
+79695,4,23368644,265924,37238,58824,280,Addition and Subtraction Fractions,1,1,51061,0,3,0,,1,1.0,7652,12237,48181,139,tutor,algebra,MasterySection
+79695,5,23819299,265924,34376,53801,280,Addition and Subtraction Fractions,1,1,12807,0,3,0,,5,5.0,7652,12237,48181,139,tutor,algebra,MasterySection
+79695,6,25354478,267391,51011,89925,277,Addition and Subtraction Integers,1,1,3774,0,4,0,,92,92.0,7476,12237,48181,139,tutor,algebra,MasterySection
+79695,7,25355357,267391,51043,89957,277,Addition and Subtraction Integers,1,1,3311,0,2,0,,100,100.0,7476,12237,48181,139,tutor,algebra,MasterySection
+79695,8,25355805,267391,50973,89887,277,Addition and Subtraction Integers,0,4,16967,1,3,0,0.0,102,102.0,7476,12237,48181,139,tutor,algebra,MasterySection
+79695,9,33449020,279218,51002,89916,277,Addition and Subtraction Integers,1,1,10320,0,4,0,,127,127.0,7476,12237,48181,139,tutor,algebra,MasterySection
+80807,1,21480038,263317,37228,58814,280,Addition and Subtraction Fractions,0,2,150385,0,3,0,,5,5.0,5960,12476,22763,73,tutor,algebra,MasterySection
+80807,2,21480158,263317,34353,53778,280,Addition and Subtraction Fractions,1,1,7458,0,3,0,,6,6.0,5960,12476,22763,73,tutor,algebra,MasterySection
+80807,3,21481352,263327,51000,89914,277,Addition and Subtraction Integers,0,2,10319,0,4,0,,2,2.0,7014,12476,22763,73,tutor,algebra,MasterySection
+80807,4,21481418,263327,51002,89916,277,Addition and Subtraction Integers,1,1,15183,0,4,0,,4,4.0,7014,12476,22763,73,tutor,algebra,MasterySection
+80807,5,24235721,220711,37238,58824,280,Addition and Subtraction Fractions,1,1,5366,0,3,0,,12,12.0,5960,11816,22763,73,tutor,algebra,MasterySection
+80807,6,24838644,220677,57399,107816,311,Equation Solving Two or Fewer Steps,1,1,22878,0,0,0,,5,5.0,5970,11816,22763,73,tutor,algebra,MasterySection
+80807,7,32182212,272481,57390,107753,311,Equation Solving Two or Fewer Steps,1,1,24920,0,0,0,,16,16.0,5970,11816,22763,73,tutor,algebra,MasterySection
+80807,8,32182219,272481,57401,107830,311,Equation Solving Two or Fewer Steps,1,1,39169,0,0,0,,17,17.0,5970,11816,22763,73,tutor,algebra,MasterySection
+80807,9,32823398,277559,43940,79238,27,Pythagorean Theorem,1,1,87772,0,3,0,,19,19.0,6409,13241,22763,73,tutor,choose_1,MasterySection
+80807,10,32823462,277559,43939,79237,27,Pythagorean Theorem,0,2,40588,0,3,0,,21,21.0,6409,13241,22763,73,tutor,choose_1,MasterySection
+80807,11,32823486,277559,43913,79211,27,Pythagorean Theorem,0,2,87692,0,3,0,,22,22.0,6409,13241,22763,73,tutor,choose_1,MasterySection
+80807,12,32823524,277559,43953,79251,27,Pythagorean Theorem,0,3,24814,0,3,0,,24,24.0,6409,13241,22763,73,tutor,choose_1,MasterySection
+80807,13,32830416,277559,43908,79206,27,Pythagorean Theorem,1,1,11640,0,3,0,,48,48.0,6409,13241,22763,73,tutor,choose_1,MasterySection
+83636,1,24348765,266599,51022,89936,277,Addition and Subtraction Integers,0,2,5209,1,4,1,0.0,7,7.0,8438,12634,54767,5117,tutor,algebra,MasterySection
+83636,2,24584216,266608,47718,86319,280,Addition and Subtraction Fractions,0,1,71768,1,4,1,0.0,3,3.0,8464,12634,54767,5117,tutor,algebra,MasterySection
+83636,3,25408640,266609,34348,53773,280,Addition and Subtraction Fractions,1,1,5144,0,3,0,,15,15.0,8468,12634,54767,5117,tutor,algebra,MasterySection
+83636,4,27202001,266614,38051,61099,47,Conversion of Fraction Decimals Percents,1,1,27089,0,5,0,,1,1.0,8472,12634,54767,5117,tutor,algebra,MasterySection
+83636,5,27202273,266614,38053,61101,47,Conversion of Fraction Decimals Percents,0,2,32816,4,5,0,0.0,2,2.0,8472,12634,54767,5117,tutor,algebra,MasterySection
+83636,6,27794865,266614,38045,61093,47,Conversion of Fraction Decimals Percents,0,2,4775,0,5,0,,3,3.0,8472,12634,54767,5117,tutor,algebra,MasterySection
+83636,7,27795755,266614,38058,61106,47,Conversion of Fraction Decimals Percents,1,1,41697,0,5,0,,6,6.0,8472,12634,54767,5117,tutor,algebra,MasterySection
+83636,8,27796670,266614,38048,61096,47,Conversion of Fraction Decimals Percents,1,1,7462,0,5,0,,9,9.0,8472,12634,54767,5117,tutor,algebra,MasterySection
+96211,1,38222534,290920,57390,107753,311,Equation Solving Two or Fewer Steps,0,1,534057,0,0,0,,21,17.0,5970,14414,69274,2770,tutor,algebra,MasterySection
+96211,2,38222549,290920,57388,107745,311,Equation Solving Two or Fewer Steps,1,1,35040,0,0,0,,36,25.0,5970,14414,69274,2770,tutor,algebra,MasterySection
+96211,3,38222552,290920,57377,107674,311,Equation Solving Two or Fewer Steps,1,1,46580,0,0,0,,39,27.0,5970,14414,69274,2770,tutor,algebra,MasterySection
+96211,4,38222617,290975,38062,61110,47,Conversion of Fraction Decimals Percents,1,1,14975,0,5,0,,15,15.0,6018,14414,69274,2770,tutor,algebra,MasterySection
+96211,5,38223058,290855,57405,107858,311,Equation Solving Two or Fewer Steps,1,1,47208,0,0,0,,46,34.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96211,6,38223076,290855,57401,107830,311,Equation Solving Two or Fewer Steps,0,1,45509,0,0,0,,64,38.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96211,7,38223080,290855,57377,107674,311,Equation Solving Two or Fewer Steps,0,1,50681,0,0,0,,68,40.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96211,8,38223085,290855,57399,107816,311,Equation Solving Two or Fewer Steps,1,1,101334,0,0,0,,73,43.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96211,9,38223087,290855,57380,107689,311,Equation Solving Two or Fewer Steps,1,1,117420,0,0,0,,75,45.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96211,10,38223128,290826,43953,79251,27,Pythagorean Theorem,0,3,35593,0,3,0,,30,30.0,6409,14414,69274,2770,tutor,choose_1,MasterySection
+96211,11,38223129,290826,43940,79238,27,Pythagorean Theorem,0,2,56625,0,3,0,,31,31.0,6409,14414,69274,2770,tutor,choose_1,MasterySection
+96211,12,38223130,290826,43934,79232,27,Pythagorean Theorem,1,1,124244,0,3,0,,32,32.0,6409,14414,69274,2770,tutor,choose_1,MasterySection
+96212,1,38245348,290824,44124,79566,27,Pythagorean Theorem,1,1,445956,0,0,0,,4,4.0,6464,14414,69274,2770,tutor,algebra,MasterySection
+96212,2,38247414,290855,57388,107745,311,Equation Solving Two or Fewer Steps,1,1,52719,0,0,0,,28,20.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96212,3,38247416,290855,57377,107674,311,Equation Solving Two or Fewer Steps,1,1,22891,0,0,0,,30,21.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96212,4,38247417,290855,57407,107872,311,Equation Solving Two or Fewer Steps,1,1,23562,0,0,0,,31,22.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96212,5,38247419,290855,57401,107830,311,Equation Solving Two or Fewer Steps,0,1,30250,0,0,0,,33,24.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96212,6,38247420,290855,57390,107753,311,Equation Solving Two or Fewer Steps,1,1,13859,0,0,0,,34,25.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96212,7,38247421,290855,57405,107858,311,Equation Solving Two or Fewer Steps,1,1,26234,0,0,0,,35,26.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96212,8,38247477,290826,43939,79237,27,Pythagorean Theorem,1,1,13036,0,3,0,,30,30.0,6409,14414,69274,2770,tutor,choose_1,MasterySection
+96212,9,38247482,290826,43908,79206,27,Pythagorean Theorem,0,2,134688,0,3,0,,35,35.0,6409,14414,69274,2770,tutor,choose_1,MasterySection
+96216,1,38263037,290920,57405,107858,311,Equation Solving Two or Fewer Steps,0,1,57773,0,0,0,,19,14.0,5970,14414,69274,2770,tutor,algebra,MasterySection
+96216,2,38263043,290920,57377,107674,311,Equation Solving Two or Fewer Steps,1,1,49257,0,0,0,,25,15.0,5970,14414,69274,2770,tutor,algebra,MasterySection
+96216,3,38263046,290920,57390,107753,311,Equation Solving Two or Fewer Steps,0,0,19581,0,0,2,,28,16.0,5970,14414,69274,2770,tutor,algebra,MasterySection
+96216,4,38263047,290920,57376,107667,311,Equation Solving Two or Fewer Steps,0,1,9420,0,0,0,,29,17.0,5970,14414,69274,2770,tutor,algebra,MasterySection
+96216,5,38263050,290920,57386,107731,311,Equation Solving Two or Fewer Steps,1,1,19297,0,0,0,,32,19.0,5970,14414,69274,2770,tutor,algebra,MasterySection
+96216,6,38263051,290920,57388,107745,311,Equation Solving Two or Fewer Steps,1,1,23852,0,0,0,,33,20.0,5970,14414,69274,2770,tutor,algebra,MasterySection
+96216,7,38263056,290920,57401,107830,311,Equation Solving Two or Fewer Steps,1,1,25912,0,0,0,,38,23.0,5970,14414,69274,2770,tutor,algebra,MasterySection
+96216,8,38263142,290975,38053,61101,47,Conversion of Fraction Decimals Percents,0,21,47216,4,5,0,0.0,12,12.0,6018,14414,69274,2770,tutor,algebra,MasterySection
+96216,9,38263144,290975,38051,61099,47,Conversion of Fraction Decimals Percents,0,3,51092,0,5,0,,14,14.0,6018,14414,69274,2770,tutor,algebra,MasterySection
+96216,10,38263661,290855,57399,107816,311,Equation Solving Two or Fewer Steps,1,1,31165,0,0,0,,92,55.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96216,11,38263667,290855,57388,107745,311,Equation Solving Two or Fewer Steps,1,1,29347,0,0,0,,98,60.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96216,12,38263669,290855,57380,107689,311,Equation Solving Two or Fewer Steps,1,1,21094,0,0,0,,100,61.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96216,13,38263670,290855,57407,107872,311,Equation Solving Two or Fewer Steps,1,1,27910,0,0,0,,101,62.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96216,14,38263711,290826,43937,79235,27,Pythagorean Theorem,1,1,142598,0,3,0,,28,28.0,6409,14414,69274,2770,tutor,choose_1,MasterySection
+96217,1,38269734,290920,57405,107858,311,Equation Solving Two or Fewer Steps,1,1,444810,0,0,0,,14,14.0,5970,14414,69274,2770,tutor,algebra,MasterySection
+96217,2,38269824,290975,38058,61106,47,Conversion of Fraction Decimals Percents,0,2,15639,0,5,0,,8,8.0,6018,14414,69274,2770,tutor,algebra,MasterySection
+96217,3,38269827,290975,38053,61101,47,Conversion of Fraction Decimals Percents,0,2,14451,0,5,0,,11,11.0,6018,14414,69274,2770,tutor,algebra,MasterySection
+96217,4,38269828,290975,38051,61099,47,Conversion of Fraction Decimals Percents,1,1,5768,0,5,0,,12,12.0,6018,14414,69274,2770,tutor,algebra,MasterySection
+96217,5,38270280,290855,57405,107858,311,Equation Solving Two or Fewer Steps,1,1,41967,0,0,0,,36,30.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96217,6,38270322,290826,43908,79206,27,Pythagorean Theorem,0,3,74294,0,3,0,,21,21.0,6409,14414,69274,2770,tutor,choose_1,MasterySection
+96217,7,38270327,290826,43934,79232,27,Pythagorean Theorem,1,1,2771795,0,3,0,,26,26.0,6409,14414,69274,2770,tutor,choose_1,MasterySection
+96217,8,38270328,290826,43939,79237,27,Pythagorean Theorem,1,1,23070,0,3,0,,27,27.0,6409,14414,69274,2770,tutor,choose_1,MasterySection
+96237,1,38194068,291448,57388,107745,311,Equation Solving Two or Fewer Steps,0,1,67083,0,0,0,,15,14.0,5970,14415,69274,2770,tutor,algebra,MasterySection
+96237,2,38194071,291448,57386,107731,311,Equation Solving Two or Fewer Steps,0,1,17434,0,0,0,,18,15.0,5970,14415,69274,2770,tutor,algebra,MasterySection
+96237,3,38194080,291448,57390,107753,311,Equation Solving Two or Fewer Steps,1,1,24582,0,0,0,,27,17.0,5970,14415,69274,2770,tutor,algebra,MasterySection
+96237,4,38194084,291448,57401,107830,311,Equation Solving Two or Fewer Steps,0,0,6684,0,0,2,,31,19.0,5970,14415,69274,2770,tutor,algebra,MasterySection
+96237,5,38194107,291448,57377,107674,311,Equation Solving Two or Fewer Steps,1,1,57493,0,0,0,,54,26.0,5970,14415,69274,2770,tutor,algebra,MasterySection
+96237,6,38194112,291448,57399,107816,311,Equation Solving Two or Fewer Steps,1,1,29357,0,0,0,,59,29.0,5970,14415,69274,2770,tutor,algebra,MasterySection
+96237,7,38194113,291448,57405,107858,311,Equation Solving Two or Fewer Steps,1,1,36446,0,0,0,,60,30.0,5970,14415,69274,2770,tutor,algebra,MasterySection
+96237,8,38194114,291448,57407,107872,311,Equation Solving Two or Fewer Steps,1,1,21913,0,0,0,,61,31.0,5970,14415,69274,2770,tutor,algebra,MasterySection
+96237,9,38194136,291500,38041,61089,47,Conversion of Fraction Decimals Percents,1,1,20164,0,5,0,,1,1.0,6018,14415,69274,2770,tutor,algebra,MasterySection
+96237,10,38194142,291337,44124,79566,27,Pythagorean Theorem,0,1,198850,0,0,0,,4,4.0,6464,14415,69274,2770,tutor,algebra,MasterySection
+96237,11,38194357,291339,43937,79235,27,Pythagorean Theorem,0,2,21285,0,3,0,,8,8.0,6409,14415,69274,2770,tutor,choose_1,MasterySection
+96237,12,38194359,291339,43908,79206,27,Pythagorean Theorem,0,9,88616,0,3,0,,10,10.0,6409,14415,69274,2770,tutor,choose_1,MasterySection
+96237,13,38194361,291339,43939,79237,27,Pythagorean Theorem,1,1,6717,0,3,0,,12,12.0,6409,14415,69274,2770,tutor,choose_1,MasterySection
+96237,14,38194363,291339,43953,79251,27,Pythagorean Theorem,0,2,6963,0,3,0,,14,14.0,6409,14415,69274,2770,tutor,choose_1,MasterySection
+96237,15,38194364,291339,43913,79211,27,Pythagorean Theorem,0,3,104480,0,3,0,,15,15.0,6409,14415,69274,2770,tutor,choose_1,MasterySection
+96237,16,38194365,291339,43945,79243,27,Pythagorean Theorem,1,1,45713,0,3,0,,16,16.0,6409,14415,69274,2770,tutor,choose_1,MasterySection
+96237,17,38194366,291339,43940,79238,27,Pythagorean Theorem,1,1,35614,0,3,0,,17,17.0,6409,14415,69274,2770,tutor,choose_1,MasterySection
+96237,18,38195122,291502,34376,53801,280,Addition and Subtraction Fractions,1,1,36655,0,3,0,,3,3.0,5960,14415,69274,2770,tutor,algebra,MasterySection
+96243,1,38273398,291448,57377,107674,311,Equation Solving Two or Fewer Steps,1,1,76355,0,0,0,,16,16.0,5970,14415,69274,2770,tutor,algebra,MasterySection
+96243,2,38273399,291448,57390,107753,311,Equation Solving Two or Fewer Steps,1,1,49481,0,0,0,,17,17.0,5970,14415,69274,2770,tutor,algebra,MasterySection
+96243,3,38273447,291500,38041,61089,47,Conversion of Fraction Decimals Percents,0,2,16023,0,5,0,,1,1.0,6018,14415,69274,2770,tutor,algebra,MasterySection
+96243,4,38273795,291339,43940,79238,27,Pythagorean Theorem,0,2,5250,0,3,0,,19,19.0,6409,14415,69274,2770,tutor,choose_1,MasterySection
+96243,5,38273796,291339,43945,79243,27,Pythagorean Theorem,0,3,3057,0,3,0,,20,20.0,6409,14415,69274,2770,tutor,choose_1,MasterySection
+96243,6,38273797,291339,43908,79206,27,Pythagorean Theorem,1,1,10700,0,3,0,,21,21.0,6409,14415,69274,2770,tutor,choose_1,MasterySection
+96243,7,38273798,291339,43913,79211,27,Pythagorean Theorem,1,1,5259,0,3,0,,22,22.0,6409,14415,69274,2770,tutor,choose_1,MasterySection
+96243,8,38274931,291335,44332,80070,27,Pythagorean Theorem,1,1,3719,0,0,0,,46,46.0,6467,14415,69274,2770,tutor,algebra,MasterySection
+96247,1,38159658,291448,57386,107731,311,Equation Solving Two or Fewer Steps,0,1,249866,0,0,0,,10,10.0,5970,14415,69274,2770,tutor,algebra,MasterySection
+96247,2,38159659,291448,57376,107667,311,Equation Solving Two or Fewer Steps,0,1,193269,0,0,0,,11,11.0,5970,14415,69274,2770,tutor,algebra,MasterySection
+96247,3,38159670,291448,57407,107872,311,Equation Solving Two or Fewer Steps,1,1,144862,0,0,0,,22,16.0,5970,14415,69274,2770,tutor,algebra,MasterySection
+96247,4,38159919,291339,43945,79243,27,Pythagorean Theorem,0,3,4961,0,3,0,,13,13.0,6409,14415,69274,2770,tutor,choose_1,MasterySection
+96247,5,38159924,291339,43937,79235,27,Pythagorean Theorem,0,2,12063,0,3,0,,18,18.0,6409,14415,69274,2770,tutor,choose_1,MasterySection
+96247,6,38159926,291339,43953,79251,27,Pythagorean Theorem,0,3,65094,0,3,0,,20,20.0,6409,14415,69274,2770,tutor,choose_1,MasterySection
+96247,7,38159931,291339,43939,79237,27,Pythagorean Theorem,1,1,11782,0,3,0,,24,24.0,6409,14415,69274,2770,tutor,choose_1,MasterySection
+96247,8,38159932,291339,43940,79238,27,Pythagorean Theorem,0,2,61093,0,3,0,,25,25.0,6409,14415,69274,2770,tutor,choose_1,MasterySection
+96247,9,38159937,291339,43934,79232,27,Pythagorean Theorem,1,1,12745,0,3,0,,30,30.0,6409,14415,69274,2770,tutor,choose_1,MasterySection
+96247,10,38160603,291475,50973,89887,277,Addition and Subtraction Integers,0,6,8786,0,3,0,,3,3.0,7014,14415,69274,2770,tutor,algebra,MasterySection
+96247,11,38160606,291475,51022,89936,277,Addition and Subtraction Integers,1,1,22460,0,4,0,,6,6.0,7014,14415,69274,2770,tutor,algebra,MasterySection
+96247,12,38160613,291475,51012,89926,277,Addition and Subtraction Integers,0,3,13909,0,4,0,,13,13.0,7014,14415,69274,2770,tutor,algebra,MasterySection
+96247,13,38160616,291475,51011,89925,277,Addition and Subtraction Integers,0,3,14890,0,4,0,,16,16.0,7014,14415,69274,2770,tutor,algebra,MasterySection
+96263,1,38216155,291448,57399,107816,311,Equation Solving Two or Fewer Steps,0,1,53098,0,0,0,,14,4.0,5970,14415,69274,2770,tutor,algebra,MasterySection
+96263,2,38216162,291448,57401,107830,311,Equation Solving Two or Fewer Steps,1,1,31977,0,0,0,,21,7.0,5970,14415,69274,2770,tutor,algebra,MasterySection
+96263,3,38216171,291448,57377,107674,311,Equation Solving Two or Fewer Steps,1,1,21531,0,0,0,,30,11.0,5970,14415,69274,2770,tutor,algebra,MasterySection
+96263,4,38216559,291339,43908,79206,27,Pythagorean Theorem,0,2,3150,0,3,0,,15,15.0,6409,14415,69274,2770,tutor,choose_1,MasterySection
+96263,5,38216561,291339,43945,79243,27,Pythagorean Theorem,0,3,3017,0,3,0,,17,17.0,6409,14415,69274,2770,tutor,choose_1,MasterySection
+96263,6,38216563,291339,43940,79238,27,Pythagorean Theorem,1,1,15746,0,3,0,,19,19.0,6409,14415,69274,2770,tutor,choose_1,MasterySection
+96263,7,38216564,291339,43913,79211,27,Pythagorean Theorem,0,2,3329,0,3,0,,20,20.0,6409,14415,69274,2770,tutor,choose_1,MasterySection
+96263,8,38216569,291339,43953,79251,27,Pythagorean Theorem,0,2,173656,0,3,0,,24,24.0,6409,14415,69274,2770,tutor,choose_1,MasterySection
+96263,9,38216572,291339,43934,79232,27,Pythagorean Theorem,1,1,2869,0,3,0,,27,27.0,6409,14415,69274,2770,tutor,choose_1,MasterySection
+96263,10,38217442,291502,37216,58802,280,Addition and Subtraction Fractions,1,1,119000,0,3,0,,3,3.0,5960,14415,69274,2770,tutor,algebra,MasterySection
+96277,1,38237176,290824,44124,79566,27,Pythagorean Theorem,1,1,7229,0,0,0,,2,2.0,6464,14414,69274,2770,tutor,algebra,MasterySection
+96277,2,38237961,290981,37221,58807,280,Addition and Subtraction Fractions,1,1,18120,0,3,0,,15,15.0,5960,14414,69274,2770,tutor,algebra,MasterySection
+96277,3,38238234,290822,44332,80070,27,Pythagorean Theorem,1,1,3903,0,0,0,,15,15.0,6467,14414,69274,2770,tutor,algebra,MasterySection
+96277,4,38238558,290920,57386,107731,311,Equation Solving Two or Fewer Steps,1,1,2264,0,0,0,,15,14.0,5970,14414,69274,2770,tutor,algebra,MasterySection
+96277,5,38238562,290920,57401,107830,311,Equation Solving Two or Fewer Steps,0,1,16427,0,0,0,,19,17.0,5970,14414,69274,2770,tutor,algebra,MasterySection
+96277,6,38238571,290920,57380,107689,311,Equation Solving Two or Fewer Steps,1,1,5769,0,0,0,,28,19.0,5970,14414,69274,2770,tutor,algebra,MasterySection
+96277,7,38238572,290920,57407,107872,311,Equation Solving Two or Fewer Steps,1,1,27195,0,0,0,,29,20.0,5970,14414,69274,2770,tutor,algebra,MasterySection
+96277,8,38238653,290975,38051,61099,47,Conversion of Fraction Decimals Percents,1,1,3871,0,5,0,,11,11.0,6018,14414,69274,2770,tutor,algebra,MasterySection
+96277,9,38239095,290855,57388,107745,311,Equation Solving Two or Fewer Steps,0,1,8664,0,0,0,,50,35.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96277,10,38239100,290855,57401,107830,311,Equation Solving Two or Fewer Steps,0,1,28264,0,0,0,,55,36.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96277,11,38239107,290855,57377,107674,311,Equation Solving Two or Fewer Steps,1,1,18808,0,0,0,,62,37.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96277,12,38239109,290855,57390,107753,311,Equation Solving Two or Fewer Steps,1,1,4130,0,0,0,,64,38.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96277,13,38239113,290855,57380,107689,311,Equation Solving Two or Fewer Steps,1,1,2439,0,0,0,,68,40.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96277,14,38239117,290855,57399,107816,311,Equation Solving Two or Fewer Steps,1,1,10285,0,0,0,,72,42.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96277,15,38239163,290826,43939,79237,27,Pythagorean Theorem,1,1,18533,0,3,0,,23,23.0,6409,14414,69274,2770,tutor,choose_1,MasterySection
+96277,16,38239164,290826,43945,79243,27,Pythagorean Theorem,1,1,23479,0,3,0,,24,24.0,6409,14414,69274,2770,tutor,choose_1,MasterySection
+96278,1,38234812,290824,44124,79566,27,Pythagorean Theorem,1,1,48216,0,0,0,,2,2.0,6464,14414,69274,2770,tutor,algebra,MasterySection
+96278,2,38235074,290959,50751,89665,277,Addition and Subtraction Integers,1,1,6895,0,4,0,,1,1.0,7012,14414,69274,2770,tutor,algebra,MasterySection
+96278,3,38236183,290920,57399,107816,311,Equation Solving Two or Fewer Steps,0,1,49720,0,0,0,,10,10.0,5970,14414,69274,2770,tutor,algebra,MasterySection
+96278,4,38236196,290920,57407,107872,311,Equation Solving Two or Fewer Steps,1,1,40306,0,0,0,,23,14.0,5970,14414,69274,2770,tutor,algebra,MasterySection
+96278,5,38236602,290855,57390,107753,311,Equation Solving Two or Fewer Steps,1,1,20990,0,0,0,,36,25.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96278,6,38236603,290855,57399,107816,311,Equation Solving Two or Fewer Steps,1,1,23833,0,0,0,,37,26.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96278,7,38236606,290855,57405,107858,311,Equation Solving Two or Fewer Steps,1,1,45674,0,0,0,,40,28.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96278,8,38236607,290855,57377,107674,311,Equation Solving Two or Fewer Steps,1,1,100413,0,0,0,,41,29.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96278,9,38236609,290855,57401,107830,311,Equation Solving Two or Fewer Steps,1,1,32196,0,0,0,,43,31.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96278,10,38236637,290826,43937,79235,27,Pythagorean Theorem,1,1,48396,0,3,0,,19,19.0,6409,14414,69274,2770,tutor,choose_1,MasterySection
+96278,11,38236739,290683,34348,53773,280,Addition and Subtraction Fractions,1,1,11325,0,3,0,,6,6.0,9864,14413,69274,2770,tutor,algebra,MasterySection
+96278,12,38236741,290683,34376,53801,280,Addition and Subtraction Fractions,1,1,6113,0,3,0,,8,8.0,9864,14413,69274,2770,tutor,algebra,MasterySection
+96282,1,38309179,290822,44332,80070,27,Pythagorean Theorem,1,1,9578,0,0,0,,12,12.0,6467,14414,69274,2770,tutor,algebra,MasterySection
+96282,2,38309564,290920,57407,107872,311,Equation Solving Two or Fewer Steps,1,1,21418,0,0,0,,22,18.0,5970,14414,69274,2770,tutor,algebra,MasterySection
+96282,3,38309567,290920,57401,107830,311,Equation Solving Two or Fewer Steps,1,1,34007,0,0,0,,25,19.0,5970,14414,69274,2770,tutor,algebra,MasterySection
+96282,4,38310003,290855,57377,107674,311,Equation Solving Two or Fewer Steps,1,1,20904,0,0,0,,37,28.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96282,5,38310007,290855,57386,107731,311,Equation Solving Two or Fewer Steps,1,1,7778,0,0,0,,41,30.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96282,6,38310009,290855,57399,107816,311,Equation Solving Two or Fewer Steps,0,1,39721,0,0,0,,43,31.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96282,7,38310010,290855,57380,107689,311,Equation Solving Two or Fewer Steps,0,1,6741,0,0,0,,44,32.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96282,8,38310018,290855,57376,107667,311,Equation Solving Two or Fewer Steps,1,1,14482,0,0,0,,52,37.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96282,9,38310046,290826,43939,79237,27,Pythagorean Theorem,0,2,10306,0,3,0,,15,15.0,6409,14414,69274,2770,tutor,choose_1,MasterySection
+96282,10,38310050,290826,43940,79238,27,Pythagorean Theorem,1,1,3853,0,3,0,,19,19.0,6409,14414,69274,2770,tutor,choose_1,MasterySection
+96282,11,38310054,290826,43937,79235,27,Pythagorean Theorem,0,2,38356,0,3,0,,22,22.0,6409,14414,69274,2770,tutor,choose_1,MasterySection
+96282,12,38310055,290826,43945,79243,27,Pythagorean Theorem,0,3,41755,0,3,0,,23,23.0,6409,14414,69274,2770,tutor,choose_1,MasterySection
+96282,13,38310057,290826,43908,79206,27,Pythagorean Theorem,0,2,78297,0,3,0,,25,25.0,6409,14414,69274,2770,tutor,choose_1,MasterySection
+96282,14,38310061,290826,43953,79251,27,Pythagorean Theorem,0,3,25045,0,3,0,,29,29.0,6409,14414,69274,2770,tutor,choose_1,MasterySection
+96282,15,38310063,290826,43934,79232,27,Pythagorean Theorem,1,1,9113,0,3,0,,31,31.0,6409,14414,69274,2770,tutor,choose_1,MasterySection
+96282,16,38310068,290826,43913,79211,27,Pythagorean Theorem,1,1,26811,0,3,0,,36,36.0,6409,14414,69274,2770,tutor,choose_1,MasterySection
+96282,17,38310177,290683,34376,53801,280,Addition and Subtraction Fractions,1,1,8494,0,3,0,,9,9.0,9864,14413,69274,2770,tutor,algebra,MasterySection
+96282,18,38310178,290683,37221,58807,280,Addition and Subtraction Fractions,1,1,4406,0,3,0,,10,10.0,9864,14413,69274,2770,tutor,algebra,MasterySection
+96282,19,38310179,290683,37238,58824,280,Addition and Subtraction Fractions,1,1,4643,0,3,0,,11,11.0,9864,14413,69274,2770,tutor,algebra,MasterySection
+96282,20,38310180,290683,37228,58814,280,Addition and Subtraction Fractions,0,2,3661,0,3,0,,12,12.0,9864,14413,69274,2770,tutor,algebra,MasterySection
+96284,1,38206595,290824,44124,79566,27,Pythagorean Theorem,1,1,39875,0,0,0,,2,2.0,6464,14414,69274,2770,tutor,algebra,MasterySection
+96284,2,38207399,290981,34372,53797,280,Addition and Subtraction Fractions,1,1,11875,0,3,0,,5,5.0,5960,14414,69274,2770,tutor,algebra,MasterySection
+96284,3,38207705,290822,44332,80070,27,Pythagorean Theorem,1,1,6906,0,0,0,,12,12.0,6467,14414,69274,2770,tutor,algebra,MasterySection
+96284,4,38208059,290920,57386,107731,311,Equation Solving Two or Fewer Steps,1,1,14500,0,0,0,,13,11.0,5970,14414,69274,2770,tutor,algebra,MasterySection
+96284,5,38208060,290920,57377,107674,311,Equation Solving Two or Fewer Steps,1,1,20188,0,0,0,,14,12.0,5970,14414,69274,2770,tutor,algebra,MasterySection
+96284,6,38208508,290855,57377,107674,311,Equation Solving Two or Fewer Steps,0,1,37907,0,0,0,,31,22.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96284,7,38208516,290855,57407,107872,311,Equation Solving Two or Fewer Steps,0,1,33343,0,0,0,,39,23.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96284,8,38208518,290855,57399,107816,311,Equation Solving Two or Fewer Steps,0,1,17781,0,0,0,,41,24.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96284,9,38208524,290855,57405,107858,311,Equation Solving Two or Fewer Steps,1,1,9484,0,0,0,,47,28.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96284,10,38208563,290826,43934,79232,27,Pythagorean Theorem,1,1,11265,0,3,0,,28,28.0,6409,14414,69274,2770,tutor,choose_1,MasterySection
+96284,11,38208565,290826,43913,79211,27,Pythagorean Theorem,0,2,58719,0,3,0,,30,30.0,6409,14414,69274,2770,tutor,choose_1,MasterySection
+96287,1,38176628,290959,50751,89665,277,Addition and Subtraction Integers,1,1,8117,0,4,0,,1,1.0,7012,14414,69274,2770,tutor,algebra,MasterySection
+96287,2,38177832,290920,57407,107872,311,Equation Solving Two or Fewer Steps,0,1,186855,0,0,0,,44,25.0,5970,14414,69274,2770,tutor,algebra,MasterySection
+96287,3,38177835,290920,57399,107816,311,Equation Solving Two or Fewer Steps,1,1,108211,0,0,0,,47,27.0,5970,14414,69274,2770,tutor,algebra,MasterySection
+96287,4,38177839,290920,57405,107858,311,Equation Solving Two or Fewer Steps,1,1,103980,0,0,0,,51,29.0,5970,14414,69274,2770,tutor,algebra,MasterySection
+96287,5,38177840,290920,57386,107731,311,Equation Solving Two or Fewer Steps,1,1,15138,0,0,0,,52,30.0,5970,14414,69274,2770,tutor,algebra,MasterySection
+96287,6,38177893,290975,38053,61101,47,Conversion of Fraction Decimals Percents,1,1,35246,0,5,0,,8,8.0,6018,14414,69274,2770,tutor,algebra,MasterySection
+96287,7,38178208,290855,57390,107753,311,Equation Solving Two or Fewer Steps,1,1,28789,0,0,0,,67,40.0,8564,14414,69274,2770,tutor,algebra,MasterySection
+96287,8,38178241,290826,43940,79238,27,Pythagorean Theorem,1,1,102069,0,3,0,,25,25.0,6409,14414,69274,2770,tutor,choose_1,MasterySection
+96287,9,38178344,290683,34348,53773,280,Addition and Subtraction Fractions,1,1,10058,0,3,0,,4,4.0,9864,14413,69274,2770,tutor,algebra,MasterySection
+96287,10,38178348,290683,34353,53778,280,Addition and Subtraction Fractions,1,1,8497,0,3,0,,8,8.0,9864,14413,69274,2770,tutor,algebra,MasterySection

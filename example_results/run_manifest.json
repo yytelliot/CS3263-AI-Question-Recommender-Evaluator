@@ -1,0 +1,57 @@
+{
+  "evaluator_version": "2.0.0",
+  "status": "PASS",
+  "smoke_test_only": true,
+  "evaluator_sha256": "c608dd5426575c55f0d97aa1c1e0e562da91a5d35bc44eb6020b99b692597705",
+  "settings": {
+    "min_skill_responses": 2,
+    "short_history_max": 12,
+    "bootstrap_samples": 5000,
+    "seed": 3263,
+    "targeting_threshold": 0.1,
+    "repeat_threshold": 0.1,
+    "k": 10,
+    "weak_definition": "lowest smoothed proficiency among eligible skills; include all exact ties",
+    "unobserved_skill_proficiency": 0.5,
+    "checkpoint_default": "last available response per student",
+    "difficulty_match": "1 - abs(proficiency - training difficulty)"
+  },
+  "dataset_checks": {
+    "training_students": 200,
+    "evaluation_students": 30,
+    "training_evaluation_student_overlap": 0,
+    "training_rows": 1685,
+    "bank_questions": 50,
+    "bank_skills": 5,
+    "minimum_training_students_per_question": 11,
+    "training_only_difficulty_recomputation_matches": true,
+    "prior_history_rows": 378,
+    "history_length_min": 8,
+    "history_length_max": 20,
+    "students_with_tied_weakest_skills": 3,
+    "short_history_students": 15,
+    "long_history_students": 15
+  },
+  "models": [
+    "demo_a",
+    "demo_b"
+  ],
+  "baseline": {
+    "id": "baseline_random_expected",
+    "method": "exact expectation over full bank; uniform sampling without replacement"
+  },
+  "inputs": [
+    {
+      "path": "C:\\Users\\Elliot\\.codex\\.chatgpt-projects\\g-p-6a849f9fc71c81919410aba63c998b95\\output\\cs3263_evaluator_v2\\data\\evaluation.csv",
+      "sha256": "83a9b928add0f66aa8a15654f2bb4baa25b29dad4c8193ed103de54cc3da4b34"
+    },
+    {
+      "path": "C:\\Users\\Elliot\\.codex\\.chatgpt-projects\\g-p-6a849f9fc71c81919410aba63c998b95\\output\\cs3263_evaluator_v2\\data\\question_bank.csv",
+      "sha256": "6322cf55d1e7f6a25abd1000af88934eb46b908197b14b587a5bf97ea32babbf"
+    },
+    {
+      "path": "C:\\Users\\Elliot\\.codex\\.chatgpt-projects\\g-p-6a849f9fc71c81919410aba63c998b95\\output\\cs3263_evaluator_v2\\data\\training.csv",
+      "sha256": "fd1545d825f04d97eb52cb8e733f2b45519c4162e56697de5b89560ede5b0c14"
+    }
+  ]
+}

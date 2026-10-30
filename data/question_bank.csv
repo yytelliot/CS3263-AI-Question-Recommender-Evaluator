@@ -1,0 +1,51 @@
+skill_id,question_id,skill_name,attempts,students,correct_count,incorrect_count,accuracy,difficulty_beta_mean,primary_assistment_id,assistment_ids,assignment_ids,sequence_ids,answer_type,problem_type,tutor_mode,median_attempt_count,median_first_response_ms,mean_hint_count,difficulty_rank_within_skill,difficulty_source
+27,79206,Pythagorean Theorem,46,46,28,18,0.6086956521739131,0.3958333333333333,43908,1,5,1,choose_1,MasterySection,tutor,1.0,40530.0,0.13043478260869565,7,training.csv only
+27,79211,Pythagorean Theorem,27,27,7,20,0.25925925925925924,0.7241379310344828,43913,1,5,1,choose_1,MasterySection,tutor,2.0,20105.0,0.07407407407407407,10,training.csv only
+27,79232,Pythagorean Theorem,27,27,18,9,0.6666666666666666,0.3448275862068966,43934,1,5,1,choose_1,MasterySection,tutor,1.0,33218.0,0.0,6,training.csv only
+27,79235,Pythagorean Theorem,32,32,22,10,0.6875,0.3235294117647059,43937,1,5,1,choose_1,MasterySection,tutor,1.0,38358.0,0.0625,5,training.csv only
+27,79237,Pythagorean Theorem,23,23,14,9,0.6086956521739131,0.4,43939,1,5,1,choose_1,MasterySection,tutor,1.0,18533.0,0.0,8,training.csv only
+27,79238,Pythagorean Theorem,39,39,34,5,0.8717948717948718,0.14634146341463414,43940,1,5,1,choose_1,MasterySection,tutor,1.0,34684.0,0.0,2,training.csv only
+27,79243,Pythagorean Theorem,27,27,12,15,0.4444444444444444,0.5517241379310345,43945,1,5,1,choose_1,MasterySection,tutor,2.0,34180.0,0.0,9,training.csv only
+27,79251,Pythagorean Theorem,22,22,16,6,0.7272727272727273,0.2916666666666667,43953,1,5,1,choose_1,MasterySection,tutor,1.0,32766.0,0.0,4,training.csv only
+27,79566,Pythagorean Theorem,14,14,13,1,0.9285714285714286,0.125,44124,1,4,1,algebra,MasterySection,tutor,1.0,49123.5,0.0,1,training.csv only
+27,80070,Pythagorean Theorem,36,36,31,5,0.8611111111111112,0.15789473684210525,44332,1,5,1,algebra,MasterySection,tutor,1.0,7156.0,0.0,3,training.csv only
+47,61089,Conversion of Fraction Decimals Percents,43,39,32,11,0.7441860465116279,0.26666666666666666,38041,1,17,4,algebra,MasterySection,tutor,1.0,11188.0,0.4883720930232558,6,training.csv only
+47,61091,Conversion of Fraction Decimals Percents,32,31,29,3,0.90625,0.11764705882352941,38043,1,12,4,algebra,MasterySection,tutor,1.0,6050.0,0.15625,1,training.csv only
+47,61093,Conversion of Fraction Decimals Percents,31,30,24,7,0.7741935483870968,0.24242424242424243,38045,1,15,4,algebra,MasterySection,tutor,1.0,6313.0,0.6451612903225806,4,training.csv only
+47,61096,Conversion of Fraction Decimals Percents,35,34,24,11,0.6857142857142857,0.32432432432432434,38048,1,11,4,algebra,MasterySection,tutor,1.0,13074.0,0.6285714285714286,7,training.csv only
+47,61097,Conversion of Fraction Decimals Percents,33,32,25,8,0.7575757575757576,0.2571428571428571,38049,1,13,3,algebra,MasterySection,tutor,1.0,6828.0,0.48484848484848486,5,training.csv only
+47,61099,Conversion of Fraction Decimals Percents,29,27,23,6,0.7931034482758621,0.22580645161290322,38051,1,13,4,algebra,MasterySection,tutor,1.0,13440.0,0.4827586206896552,3,training.csv only
+47,61101,Conversion of Fraction Decimals Percents,34,33,13,21,0.38235294117647056,0.6111111111111112,38053,1,13,4,algebra,MasterySection,tutor,1.0,16122.0,1.4411764705882353,10,training.csv only
+47,61106,Conversion of Fraction Decimals Percents,34,33,22,12,0.6470588235294118,0.3611111111111111,38058,1,14,4,algebra,MasterySection,tutor,1.0,20333.0,0.9411764705882353,8,training.csv only
+47,61110,Conversion of Fraction Decimals Percents,27,26,11,16,0.4074074074074074,0.5862068965517241,38062,1,11,4,algebra,MasterySection,tutor,1.0,16111.0,1.5185185185185186,9,training.csv only
+47,85901,Conversion of Fraction Decimals Percents,17,16,14,3,0.8235294117647058,0.21052631578947367,47383,1,9,3,algebra,MasterySection,tutor,1.0,10055.0,0.11764705882352941,2,training.csv only
+277,89665,Addition and Subtraction Integers,14,14,8,6,0.5714285714285714,0.4375,50751,1,9,4,algebra,MasterySection,tutor,1.0,10562.0,1.0714285714285714,5,training.csv only
+277,89709,Addition and Subtraction Integers,15,14,11,4,0.7333333333333333,0.29411764705882354,50795,1,11,7,algebra,MasterySection,tutor,1.0,7669.0,0.5333333333333333,3,training.csv only
+277,89887,Addition and Subtraction Integers,13,13,6,7,0.46153846153846156,0.5333333333333333,50973,1,10,7,algebra,MasterySection,tutor,1.0,12687.0,0.46153846153846156,7,training.csv only
+277,89914,Addition and Subtraction Integers,18,17,7,11,0.3888888888888889,0.6,51000,1,8,4,algebra,MasterySection,tutor,2.0,8157.5,0.8333333333333334,9,training.csv only
+277,89916,Addition and Subtraction Integers,15,13,6,9,0.4,0.5882352941176471,51002,1,9,4,algebra,MasterySection,tutor,2.0,9983.0,1.5333333333333334,8,training.csv only
+277,89925,Addition and Subtraction Integers,16,14,9,7,0.5625,0.4444444444444444,51011,1,10,6,algebra,MasterySection,tutor,1.0,6137.0,0.25,6,training.csv only
+277,89926,Addition and Subtraction Integers,13,13,10,3,0.7692307692307693,0.26666666666666666,51012,1,9,5,algebra,MasterySection,tutor,1.0,23151.0,0.38461538461538464,2,training.csv only
+277,89936,Addition and Subtraction Integers,13,12,6,7,0.46153846153846156,0.5333333333333333,51022,1,8,3,algebra,MasterySection,tutor,2.0,9587.0,0.7692307692307693,7,training.csv only
+277,89957,Addition and Subtraction Integers,12,12,7,5,0.5833333333333334,0.42857142857142855,51043,1,6,5,algebra,MasterySection,tutor,1.0,5250.5,0.25,4,training.csv only
+277,89965,Addition and Subtraction Integers,17,15,14,3,0.8235294117647058,0.21052631578947367,51051,1,12,4,algebra,MasterySection,tutor,1.0,5655.0,0.11764705882352941,1,training.csv only
+280,53773,Addition and Subtraction Fractions,27,25,19,8,0.7037037037037037,0.3103448275862069,34348,1,13,6,algebra,MasterySection,tutor,1.0,15625.0,0.3333333333333333,9,training.csv only
+280,53778,Addition and Subtraction Fractions,23,23,18,5,0.782608695652174,0.24,34353,1,16,6,algebra,MasterySection,tutor,1.0,11400.0,0.08695652173913043,3,training.csv only
+280,53797,Addition and Subtraction Fractions,21,21,15,6,0.7142857142857143,0.30434782608695654,34372,1,14,4,algebra,MasterySection,tutor,1.0,11875.0,0.42857142857142855,7,training.csv only
+280,53801,Addition and Subtraction Fractions,19,19,16,3,0.8421052631578947,0.19047619047619047,34376,1,13,6,algebra,MasterySection,tutor,1.0,9110.0,0.3157894736842105,2,training.csv only
+280,58802,Addition and Subtraction Fractions,22,21,16,6,0.7272727272727273,0.2916666666666667,37216,1,11,4,algebra,MasterySection,tutor,1.0,27165.0,0.2727272727272727,6,training.csv only
+280,58807,Addition and Subtraction Fractions,25,25,21,4,0.84,0.18518518518518517,37221,1,12,5,algebra,MasterySection,tutor,1.0,12406.0,0.32,1,training.csv only
+280,58814,Addition and Subtraction Fractions,22,22,10,12,0.45454545454545453,0.5416666666666666,37228,1,16,7,algebra,MasterySection,tutor,1.0,15609.5,1.0,10,training.csv only
+280,58824,Addition and Subtraction Fractions,17,17,13,4,0.7647058823529411,0.2631578947368421,37238,1,12,5,algebra,MasterySection,tutor,1.0,15096.0,0.35294117647058826,4,training.csv only
+280,86319,Addition and Subtraction Fractions,16,16,12,4,0.75,0.2777777777777778,47718,1,10,6,algebra,MasterySection,tutor,1.0,35511.0,0.0,5,training.csv only
+280,86544,Addition and Subtraction Fractions,11,11,8,3,0.7272727272727273,0.3076923076923077,47941,1,7,3,algebra,MasterySection,tutor,1.0,190062.0,0.36363636363636365,8,training.csv only
+311,107667,Equation Solving Two or Fewer Steps,63,59,33,30,0.5238095238095238,0.47692307692307695,57376,1,11,3,algebra,MasterySection,tutor,1.0,49577.0,0.0,9,training.csv only
+311,107674,Equation Solving Two or Fewer Steps,81,75,62,19,0.7654320987654321,0.24096385542168675,57377,1,11,3,algebra,MasterySection,tutor,1.0,41619.0,0.0,3,training.csv only
+311,107689,Equation Solving Two or Fewer Steps,57,52,48,9,0.8421052631578947,0.1694915254237288,57380,1,11,3,algebra,MasterySection,tutor,1.0,26672.0,0.0,2,training.csv only
+311,107731,Equation Solving Two or Fewer Steps,71,63,62,9,0.8732394366197183,0.136986301369863,57386,1,9,3,algebra,MasterySection,tutor,1.0,25373.0,0.0,1,training.csv only
+311,107745,Equation Solving Two or Fewer Steps,74,69,34,40,0.4594594594594595,0.5394736842105263,57388,1,11,3,algebra,MasterySection,tutor,1.0,31746.5,0.0,10,training.csv only
+311,107753,Equation Solving Two or Fewer Steps,78,76,50,28,0.6410256410256411,0.3625,57390,1,10,3,algebra,MasterySection,tutor,1.0,27547.0,0.0,5,training.csv only
+311,107816,Equation Solving Two or Fewer Steps,73,63,43,30,0.589041095890411,0.41333333333333333,57399,1,12,3,algebra,MasterySection,tutor,1.0,44692.0,0.0,7,training.csv only
+311,107830,Equation Solving Two or Fewer Steps,76,70,48,28,0.631578947368421,0.3717948717948718,57401,1,11,3,algebra,MasterySection,tutor,1.0,31230.5,0.0,6,training.csv only
+311,107858,Equation Solving Two or Fewer Steps,77,69,57,20,0.7402597402597403,0.26582278481012656,57405,1,10,3,algebra,MasterySection,tutor,1.0,39824.0,0.0,4,training.csv only
+311,107872,Equation Solving Two or Fewer Steps,78,74,41,37,0.5256410256410257,0.475,57407,1,10,3,algebra,MasterySection,tutor,1.0,48266.0,0.0,8,training.csv only
